@@ -14,9 +14,9 @@ Materiel necessaire :
 1 bouton  
 
 Fonctions :   
-*Temposisation du flotteur pour ne pas avoir de declanchement du motoreducteur trop minime a repetition  
-*Un appuye prolonger sur le bouton permet de faire tourner le motoreducteur  
-*Detection de fin de rouleau (delais flotteur haut trop important) qui désactive le fonctionnement jusque au rearmement manuel (appuye prolongé sur le bouton)   
+*Temporisation du flotteur pour ne pas avoir de déclanchement du motoréducteur trop minime a répetition  
+*Un appui prolongé sur le bouton permet de faire tourner le motoréducteur  
+*Détection de fin de rouleau (delais flotteur haut trop important) qui désactive le fonctionnement jusque au réarmement manuel (appui prolongé sur le bouton)   
 *une led rouge et verte indique l'etat (activé ou désactivé)  
 
 
@@ -29,7 +29,7 @@ Les plans 3D du filtre sont disponible ici:
 
 
 vous etes FAN de DIY ... 
-Venez decouvrir l'aquabouns, l'automate de gestion pour aquarium récifal
+Venez découvrir l'aquabouns, l'automate de gestion pour aquarium récifal
 www.aquabouns.fr
 
 telechargement :
